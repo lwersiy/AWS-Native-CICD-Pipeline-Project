@@ -15,7 +15,7 @@
     <repositories>
       <repository>
         <id>codeartifact</id>
-    <url>https://java-webapp-maven-repo-989589514705.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <url>https://wersiygb-989589514705.d.codeartifact.us-west-2.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
   </profile>
@@ -26,8 +26,8 @@
 <mirrors>
   <mirror>
     <id>codeartifact</id>
-    <name>java-webapp-maven-repo-maven-central-store</name>
-    <url>https://java-webapp-maven-repo-989589514705.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <name>wersiygb-maven-central-store</name>
+    <url>https://wersiygb-989589514705.d.codeartifact.us-west-2.amazonaws.com/maven/maven-central-store/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
